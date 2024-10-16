@@ -1,0 +1,19 @@
+/*
+    ====================================
+
+	Assignment: "Git Some Practice"
+	Sarah Pasquale
+		
+	FileName: styles.css
+	Last updated 10/16/2024
+	
+    ====================================
+*/
+
+html {
+    background-color: #263BA1;
+}
+
+h1, p {
+    color: white;
+}
